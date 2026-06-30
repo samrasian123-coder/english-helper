@@ -1,0 +1,19 @@
+{
+  "name": "english-ai-teacher",
+  "version": "1.0.0",
+  "description": "An interactive English & Urdu language AI tutor with voice input and output",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "teacher",
+    "urdu",
+    "english",
+    "speech-to-text",
+    "text-to-speech"
+  ],
+  "author": "",
+  "license": "ISC"
+}
